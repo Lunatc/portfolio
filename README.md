@@ -12,3 +12,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Icones redes sociais
 - [x] Link currículo
 - [ ] Adicionar informações corretas sobre educação, experiência e outros
+- [ ] Parte de projetos
+- [ ] Protótipos Figma
+- [ ] Parte com ferramentas e linguagens que sei
