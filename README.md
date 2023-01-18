@@ -23,5 +23,8 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Adicionar icone window do navegador
 - [ ] Consertar visualização no celular (hr)
 - [ ] Escolher uma foto melhor
+- [ ] Inglês
+- [ ] Posters and Workshops
+- [ ] Modo escuro
 
 </details>
