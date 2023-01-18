@@ -16,10 +16,11 @@ a{
     text-decoration: none;
     cursor: pointer;
     opacity: 0.9;
+    color:#676767;
 }
 
 a:hover{
-    opacity: 1;
+    color: #FFBA9D;
 }
 
 
@@ -34,7 +35,7 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 20px 50px;
-    background-color: #FFFAED;
+    background-color: #FFF;
 }
 
 header nav{
@@ -62,6 +63,7 @@ header li{
 .title{
     color: #474747;
     font-size: 1.3rem;
+    font-weight: normal;
 }
 
 /*CONTENT*/
@@ -71,6 +73,7 @@ header li{
     display: flex;
     flex-wrap: wrap;
     padding-top: 100px;
+    padding-bottom: 15px;
 }
 
 .content p{
@@ -108,7 +111,7 @@ header li{
 .sideBar ul{
     display: flex;
     flex-direction: row;
-    gap: 10px;
+    gap: 15px;
 }
 
 .sideBar ul a i{
@@ -143,17 +146,28 @@ header li{
     font-weight: normal;
 }
 
+@media screen and (max-width: 850px) {
+    .sideBar h1, .sideBar h2, .sideBar ul, .sideBar .curriculo, .sideBar .email{
+        align-self: center;
+    }
+
+    .sideBar{
+        margin-bottom: 25px;
+    }
+
+}
+
 /*FOOTER*/
 
 footer{
     display: flex;
     flex-direction: column;
-    background-color:#FFFAED;
-    padding: 40px 0;
+    background-color:#EBEBEB;
+    padding: 20px 0;
     align-items: center;
 }
 
 footer p{
-    font-size: 0.9rem;
+    font-size: 0.8rem;
     color: #474747;
 }
