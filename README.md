@@ -19,6 +19,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Protótipos Figma
 - [ ] Parte com ferramentas e linguagens que sei
 - [ ] Trocar para React
-- [ ] Github Pages
+- [x] Github Pages
+- [ ] Adicionar icone window do navegodor
 
 </details>
