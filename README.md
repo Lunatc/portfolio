@@ -8,6 +8,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 <details>
 
 <summary> Janeiro 2023 </summary>
+
 - [x] Colocar uma foto minha
 - [x] Arrumar as cores
 - [x] Responsividade
