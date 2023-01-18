@@ -20,6 +20,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Parte com ferramentas e linguagens que sei
 - [ ] Trocar para React
 - [x] Github Pages
-- [ ] Adicionar icone window do navegodor
+- [ ] Adicionar icone window do navegador
+- [ ] Consertar visualização no celular (hr)
 
 </details>
