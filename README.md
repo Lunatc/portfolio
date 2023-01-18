@@ -5,6 +5,8 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 ## To Do List Portfolio
 
+<details>
+
 <summary> Janeiro 2023 </summary>
 - [x] Colocar uma foto minha
 - [x] Arrumar as cores
@@ -15,3 +17,5 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Parte de projetos
 - [ ] Protótipos Figma
 - [ ] Parte com ferramentas e linguagens que sei
+
+</details>
