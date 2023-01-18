@@ -22,5 +22,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Github Pages
 - [ ] Adicionar icone window do navegador
 - [ ] Consertar visualização no celular (hr)
+- [ ] Escolher uma foto melhor
 
 </details>
