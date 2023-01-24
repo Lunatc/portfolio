@@ -5,19 +5,19 @@ function Header() {
     return (
         <header className={classes.header}>
             <h1>
-                <Link to="/">Cíntia's Portfolio</Link>  
+                <Link to="/Portfolio">Cíntia's Portfolio</Link>  
             </h1>
 
             <nav>
                 <ul>
                      <li>
-                        <Link to="/sobre">Sobre</Link>
+                        <Link to="/Portfolio/sobre">Sobre</Link>
                     </li>
                     <li>
-                        <Link to="/curriculo">Currículo</Link>
+                        <Link to="/Portfolio/curriculo">Currículo</Link>
                     </li>
                     <li>
-                        <Link to="/projetos">Projetos</Link>
+                        <Link to="/Portfolio/projetos">Projetos</Link>
                     </li>
                 </ul>
                

@@ -17,16 +17,16 @@ function App() {
     <div className={classes.App}>
       <Sidebar/>
       <Switch>
-        <Route path='/' exact>
+        <Route path='/Portfolio' exact>
           <Main/>
         </Route>
-        <Route path='/sobre'>
+        <Route path='/Portfolio/sobre'>
           <About/>
         </Route>
-        <Route path='/curriculo'>
+        <Route path='/Portfolio/curriculo'>
           <Curriculum/>
         </Route>
-        <Route path='/projetos'>
+        <Route path='/Portfolio/projetos'>
           <Projects/>
         </Route>
       </Switch>
