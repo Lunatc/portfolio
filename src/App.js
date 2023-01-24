@@ -4,7 +4,7 @@ import classes from "./App.css"
 
 import Header from "./layouts/header";
 import Sidebar from './layouts/sidebar';
-//import Footer from "./layouts/footer";
+import Footer from "./layouts/footer";
 import Projects from './pages/projects';
 import Main from './pages/main';
 import About from './pages/about';
@@ -32,7 +32,7 @@ function App() {
       </Switch>
     </div>
     
-    {/*<Footer/>*/}
+    <Footer/>
   </div>;
 }
 

@@ -9,6 +9,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 <summary> To-Do </summary>
 
 - [ ] Escrever texto "Breve introdução"
+- [ ] Resolver problema links "/Portfolio"
 - [ ] Parte de projetos
 - [ ] Protótipos Figma
 - [ ] Parte com ferramentas e linguagens que sei
