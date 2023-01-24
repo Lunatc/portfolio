@@ -1,8 +1,9 @@
 /*Side Bar*/
 
 .sideBar{
-    flex-basis: 25rem;
-    flex-grow: 1;
+    /*flex-basis: 25rem;
+    flex-grow: 1;*/
+    width: 400px;
     color:#474747;
     display: flex;
     flex-direction: column;
@@ -35,4 +36,16 @@
 
 .sideBar ul a i{
     font-size: 20px;
+}
+
+
+@media screen and (max-width: 850px) {
+    .sideBar h1, .sideBar h2, .sideBar ul, .sideBar .curriculo, .sideBar .email{
+        align-self: center;
+    }
+
+    .sideBar{
+        margin-bottom: 25px;
+    }
+
 }

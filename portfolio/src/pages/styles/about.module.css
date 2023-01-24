@@ -1,0 +1,34 @@
+.about{
+    color:#474747;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 68px;
+    gap: 15px;
+}
+
+.about h1, .about h2{
+    font-weight: normal;
+}
+
+.small-text{
+    text-align: left;
+    font-size: 0.96rem;
+    font-weight: lighter;
+}
+
+.about img{
+    width: 250px;
+    align-self: center;
+    margin-bottom: 15px;
+}
+
+.about ul{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.about ul a i{
+    font-size: 20px;
+}
