@@ -18,7 +18,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Parte de projetos
 - [ ] Protótipos Figma
 - [ ] Parte com ferramentas e linguagens que sei
-- [ ] Trocar para React
+- [x] Trocar para React
 - [x] Github Pages
 - [ ] Adicionar icone window do navegador
 - [ ] Consertar visualização no celular (hr)
@@ -26,6 +26,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Inglês
 - [ ] Posters and Workshops
 - [ ] Modo escuro
-- [ ] Decidir SideBar React
+- [x] Decidir SideBar React
 
 </details>
