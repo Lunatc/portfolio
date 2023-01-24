@@ -5,15 +5,16 @@ header{
     position: absolute;
     top: 0;
     left: 0;
+    padding: 20px 68px;
+    background-color: #FFF;
     display: flex;
     justify-content: space-between;
     align-items: center;
-    padding: 20px 68px;
-    background-color: #FFF;
 }
 
-header nav{
-    display:flex;
+header ul{
+    display: flex;
+    flex-direction: row;
 }
 
 header li a{
@@ -28,13 +29,13 @@ header li{
     header{
         flex-direction: column;
     }
-    header .title{
-        margin-bottom: 15px;
+    header h1{
+        margin-bottom: 20px;
     }
 
 }
 
-.title{
+h1{
     color: #474747;
     font-size: 1.3rem;
     font-weight: normal;

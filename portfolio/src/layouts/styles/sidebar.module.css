@@ -1,0 +1,38 @@
+/*Side Bar*/
+
+.sideBar{
+    flex-basis: 25rem;
+    flex-grow: 1;
+    color:#474747;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0 68px;
+    gap: 15px;
+}
+
+.sideBar h1, .sideBar h2{
+    font-weight: normal;
+}
+
+.small-text{
+    text-align: left;
+    font-size: 0.96rem;
+    font-weight: lighter;
+}
+
+.sideBar img{
+    width: 250px;
+    align-self: center;
+    margin-bottom: 15px;
+}
+
+.sideBar ul{
+    display: flex;
+    flex-direction: row;
+    gap: 15px;
+}
+
+.sideBar ul a i{
+    font-size: 20px;
+}

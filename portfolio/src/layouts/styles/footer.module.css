@@ -1,0 +1,14 @@
+/*FOOTER*/
+
+footer{
+    display: flex;
+    flex-direction: column;
+    background-color:#EBEBEB;
+    padding: 20px 0;
+    align-items: center;
+}
+
+footer p{
+    font-size: 0.8rem;
+    color: #474747;
+}

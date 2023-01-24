@@ -26,5 +26,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Inglês
 - [ ] Posters and Workshops
 - [ ] Modo escuro
+- [ ] Decidir SideBar React
 
 </details>
