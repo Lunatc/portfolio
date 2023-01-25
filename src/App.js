@@ -1,7 +1,5 @@
 import { Route, Switch } from 'react-router-dom';
 
-import classes from "./App.css"
-
 import Header from "./layouts/header";
 import Sidebar from './layouts/sidebar';
 import Footer from "./layouts/footer";
@@ -14,7 +12,7 @@ import Curriculum from './pages/curriculum';
 function App() {
   return <section>
     <Header/>
-    <div className={classes.App}>
+    <div>
         <Sidebar/>
         <Switch>
           <Route path='/' exact>
