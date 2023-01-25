@@ -23,3 +23,9 @@ a:hover{
     color: #000;
     text-decoration:underline;
 }
+
+div {
+    display: flex;
+    flex-direction: row;
+    margin-top: 40px;
+}

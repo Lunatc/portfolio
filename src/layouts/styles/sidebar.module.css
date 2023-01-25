@@ -1,9 +1,11 @@
 /*Side Bar*/
 
-.sideBar{
+.Sidebar{
     /*flex-basis: 25rem;
     flex-grow: 1;*/
-    width: 400px;
+    flex-basis: 400px;
+    flex-grow: 0;
+    flex-shrink: 0;
     color:#474747;
     display: flex;
     flex-direction: column;
@@ -12,7 +14,7 @@
     gap: 15px;
 }
 
-.sideBar h1, .sideBar h2{
+.Sidebarh1, .Sidebar h2{
     font-weight: normal;
 }
 
@@ -22,29 +24,29 @@
     font-weight: lighter;
 }
 
-.sideBar img{
+.Sidebar img{
     width: 250px;
     align-self: center;
     margin-bottom: 15px;
 }
 
-.sideBar ul{
+.Sidebar ul{
     display: flex;
     flex-direction: row;
     gap: 15px;
 }
 
-.sideBar ul a i{
+.Sidebar ul a i{
     font-size: 20px;
 }
 
 
 @media screen and (max-width: 850px) {
-    .sideBar h1, .sideBar h2, .sideBar ul, .sideBar .curriculo, .sideBar .email{
+    .Sidebar h1, .Sidebar h2, .Sidebar ul, .Sidebar .curriculo, .Sidebar .email{
         align-self: center;
     }
 
-    .sideBar{
+    .Sidebar{
         margin-bottom: 25px;
     }
 

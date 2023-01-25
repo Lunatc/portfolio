@@ -12,28 +12,27 @@ import Curriculum from './pages/curriculum';
 
 
 function App() {
-  return <div>
+  return <section>
     <Header/>
     <div className={classes.App}>
-      <Sidebar/>
-      <Switch>
-        <Route path='/' exact>
-          <Main/>
-        </Route>
-        <Route path='/sobre'>
-          <About/>
-        </Route>
-        <Route path='/curriculo'>
-          <Curriculum/>
-        </Route>
-        <Route path='/projetos'>
-          <Projects/>
-        </Route>
-      </Switch>
-    </div>
-    
+        <Sidebar/>
+        <Switch>
+          <Route path='/' exact>
+            <Main/>
+          </Route>
+          <Route path='/sobre'>
+            <About/>
+          </Route>
+          <Route path='/curriculo'>
+            <Curriculum/>
+          </Route>
+          <Route path='/projetos'>
+            <Projects/>
+          </Route>
+        </Switch>
+    </div>  
     <Footer/>
-  </div>;
+  </section>;
 }
 
 export default App;

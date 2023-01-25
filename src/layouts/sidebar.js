@@ -4,7 +4,6 @@ import foto from '../assets/images/foto.jpg';
 function Sidebar() {
     return(
         <div className={classes.Sidebar}>
-            <div className={classes.sideBar}>
                 <img src={foto} alt="Foto da Cintia"></img>
                 <h1>Quem sou eu</h1>
                 <p className={classes["small-text"]}>Estudante de Ciência da Computação, me especializando em UI/UX. Pretendo fazer um mestrado na área de IHC e trabalhar como UX Researcher ou Product Designer.</p>
@@ -19,8 +18,6 @@ function Sidebar() {
                 
                 <h2>Contato:</h2>
                 <p class="email">cbrmesquita@gmail.com</p>  
-            </div>
-            
         </div>
     );
 }

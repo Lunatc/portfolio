@@ -1,8 +1,8 @@
-
+import classes from './styles/projects.module.css'
 
 function Projects() {
     return (
-       <div>Projects</div>
+       <div className={classes.Projects}>Projects</div>
     );
   }
   

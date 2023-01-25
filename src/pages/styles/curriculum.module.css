@@ -1,6 +1,4 @@
-.content {
-    flex-basis: 0;
-    flex-grow: 999;
+.Curriculum {
     color:#474747;
     display: flex;
     flex-direction: column;
@@ -29,4 +27,10 @@
     width: 700px;
     border: 0;
     border-top: 1px solid #c9c7c7;
+}
+
+.small-text{
+    text-align: left;
+    font-size: 0.96rem;
+    font-weight: lighter;
 }

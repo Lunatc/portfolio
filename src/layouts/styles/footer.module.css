@@ -1,11 +1,14 @@
 /*FOOTER*/
 
 footer{
+    position: absolute;
+    width: 100%;
     display: flex;
     flex-direction: column;
     background-color:#EBEBEB;
     padding: 20px 0;
     align-items: center;
+    margin-top: 30px;
 }
 
 footer p{
