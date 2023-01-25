@@ -10,7 +10,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 - [ ] Escrever texto "Breve introdução"
 - [ ] Resolver problema links "/Portfolio"
-- [ ] Parte de projetos
 - [ ] Protótipos Figma
 - [ ] Parte com ferramentas e linguagens que sei
 - [ ] Adicionar icone window do navegador
@@ -20,6 +19,10 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Posters and Workshops
 - [ ] Modo escuro
 - [ ] Links font-awesome
+- [ ] Github Pages novamente
+- [ ] Resolver como eu coloco novos projetos
+- [ ] Colocar meus projetos de verdade
+- [ ] Página de cada projeto
 
 </details>
 
@@ -36,5 +39,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Trocar para React
 - [x] Github Pages
 - [x] Decidir SideBar React
+- [x] Parte de projetos
 
 </details>
