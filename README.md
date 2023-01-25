@@ -23,6 +23,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Resolver como eu coloco novos projetos
 - [ ] Colocar meus projetos de verdade
 - [ ] Página de cada projeto
+- [ ] Página recursos que eu recomendo
 
 </details>
 
