@@ -20,7 +20,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Modo escuro
 - [ ] Links font-awesome
 - [ ] Github Pages novamente
-- [ ] Resolver como eu coloco novos projetos
 - [ ] Colocar meus projetos de verdade
 - [ ] Página de cada projeto
 - [ ] Página recursos que eu recomendo
@@ -41,5 +40,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Github Pages
 - [x] Decidir SideBar React
 - [x] Parte de projetos
+- [x] Resolver como eu coloco novos projetos
 
 </details>

@@ -1,18 +1,23 @@
 import classes from "./styles/card.module.css"
-import projeto1 from "../assets/images/projeto1.png"
 
-function Card() {
+
+function Card(props) {
     return (
         <div className={classes.Card}>
             <section>
-                <img className={classes.Image} src={projeto1} alt="Foto projeto 1"></img>
+                <img className={classes.Image} src={props.image} alt="Foto projeto 1"></img>
             </section>
             <section className={classes.texto}>
-                <h2>Título</h2>
-                <p>Este projeto foi desenvolvido com objetivo de desenvolver xxx para funcionar de tal de jeito. Ele foi desenvolvido utilizando a framework xxx com auxílio das ferramentas xyz.</p>
-                <button className={classes.btn}>
-                    Saiba mais
-                </button>
+                <h2>{props.title}</h2>
+                <p>{props.text}</p>
+                <div className={classes.btnline}>
+                    <button className={classes.btn}>
+                        Acessar
+                    </button>
+                    <button className={classes.btn}>
+                        Saiba mais
+                    </button>
+                </div>
             </section> 
         </div>
     );
