@@ -9,6 +9,7 @@ function Card(props) {
             </section>
             <section className={classes.texto}>
                 <h2>{props.title}</h2>
+                <p className={classes["small-text"]}>Data: 10/01/2023</p>
                 <p>{props.text}</p>
                 <div className={classes.btnline}>
                     <button className={classes.btn}>

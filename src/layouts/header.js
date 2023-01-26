@@ -11,16 +11,12 @@ function Header() {
             <nav>
                 <ul>
                      <li>
-                        <Link to="/sobre">Sobre</Link>
+                        <Link to="/about">Sobre</Link>
                     </li>
                     <li>
-                        <Link to="/curriculo">Currículo</Link>
+                        <Link to="/projects">Projetos</Link>
                     </li>
-                    <li>
-                        <Link to="/projetos">Projetos</Link>
-                    </li>
-                </ul>
-               
+                </ul>              
             </nav>
         </header>
     );
