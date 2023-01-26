@@ -16,6 +16,9 @@ function Header() {
                     <li>
                         <Link to="/projects">Projetos</Link>
                     </li>
+                    <li>
+                        <a href="https://drive.google.com/file/d/14rvCWLhOxG_0czzwcFv7fVioEHtRPcnu/view?usp=sharing">CV</a>
+                    </li>
                 </ul>              
             </nav>
         </header>

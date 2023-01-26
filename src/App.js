@@ -10,7 +10,7 @@ import About from './pages/about';
 function App() {
   return <section>
     <Header/>
-    <div>
+    <div className="content">
         <Switch>
           <Route path='/' exact>
             <Main/>

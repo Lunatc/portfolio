@@ -1,11 +1,3 @@
-.About{
-    color:#474747;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0 68px;
-    gap: 15px;
-}
 
 .About h1, .about h2{
     font-weight: normal;

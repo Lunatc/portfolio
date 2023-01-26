@@ -1,11 +1,29 @@
 /*Main Content*/
 
-.Main {
-    color:#474747;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    padding: 0 68px;
-    gap: 15px;
+.Main{
+    margin-top: 0;
 }
 
+.hero {
+    display: flex;
+    flex-direction: row;
+    align-items:flex-start;
+    margin-top: 0;
+}
+
+.Main img {
+    width: 260px;
+}
+
+.texto {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin-left: 120px;
+}
+
+.Main p{
+    text-align: left;
+    font-size: 0.96rem;
+    font-weight: lighter;
+}

@@ -5,10 +5,11 @@ function About() {
     return (
         <div className={classes.About}>
                 <h1>Breve introdução</h1>
+                <br></br>
                 <p className={classes["small-text"]}>Estudante de Ciência da Computação, me especializando em UI/UX. Pretendo fazer um mestrado na área de IHC e trabalhar como UX Researcher ou Product Designer.</p>
-
+                <br></br>
                 <p className={classes["small-text"]}>Estudante de Ciência da Computação, me especializando em UI/UX. Pretendo fazer um mestrado na área de IHC e trabalhar como UX Researcher ou Product Designer.</p>        
-
+                
                 <h1>Meus interesses</h1>
                 <ul>
                     <li>
