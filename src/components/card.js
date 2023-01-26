@@ -1,5 +1,4 @@
 import classes from "./styles/card.module.css"
-import { Link } from "react-router-dom";
 
 
 function Card(props) {
@@ -15,9 +14,6 @@ function Card(props) {
                 <div className={classes.btnline}>
                     <button className={classes.btn}>
                         Acessar
-                    </button>
-                    <button className={classes.btn}>
-                        <Link to="/">Saiba mais</Link>
                     </button>
                 </div>
             </section> 

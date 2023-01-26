@@ -21,6 +21,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Github Pages novamente
 - [ ] Colocar meus projetos de verdade
 - [ ] Página que estou agora aparece com linha embaixo
+- [ ] Editar About me e colocar data do lado e só por ano
 
 </details>
 

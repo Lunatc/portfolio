@@ -1,3 +1,7 @@
+.About{
+    display: flex;
+    flex-direction: column;
+}
 
 .About h1, .about h2{
     font-weight: normal;

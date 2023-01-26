@@ -20,7 +20,7 @@ a{
 }
 
 a:hover{
-    color: #000;
+    color: #B43930;
     text-decoration:underline;
 }
 
@@ -34,6 +34,6 @@ div {
     color:#474747;
     display: flex;
     flex-direction: column;
-    padding: 0 200px;
+    padding: 30px 200px;
     gap: 15px;
 }
