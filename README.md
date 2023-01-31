@@ -6,19 +6,26 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 <details>
 
-<summary> To-Do </summary>
+<summary> Must do </summary>
 
 - [ ] Escrever texto introdução
 - [ ] Escrever texto about me
 - [ ] Escrever parte posters
 - [ ] Resolver problema links "/Portfolio"
-- [ ] Protótipos Figma
 - [ ] Responsividade React
-- [ ] Escolher uma foto melhor
 - [ ] Inglês
-- [ ] Modo escuro
 - [ ] Github Pages novamente
 - [ ] Colocar meus projetos de verdade
+
+</details>
+
+<details>
+
+<summary> Extra </summary>
+
+- [ ] Protótipos Figma
+- [ ] Escolher uma foto melhor
+- [ ] Modo escuro
 - [ ] Página que estou agora aparece com linha embaixo
 
 </details>

@@ -6,7 +6,7 @@ function Header() {
     return (
         <header className={classes.header}>
             <h1>
-                <Link to="/">Cíntia's Portfolio</Link>  
+                <Link to="/">Cíntia Braz</Link>  
             </h1>
             <nav>
                 <ul>
@@ -19,11 +19,11 @@ function Header() {
                     <li>
                         <a href="https://drive.google.com/file/d/14rvCWLhOxG_0czzwcFv7fVioEHtRPcnu/view?usp=sharing">CV</a>
                     </li>
-                    <li>
+                    {/*<li>
                         <a href="/" className={classes.icon}>
                             <FontAwesomeIcon icon="moon" />
-                        </a>                      
-                    </li>
+                        </a>          
+                    </li>*/}         
                 </ul>              
             </nav>
         </header>

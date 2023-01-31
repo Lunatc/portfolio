@@ -10,6 +10,8 @@ header{
     display: flex;
     justify-content: space-between;
     align-items: center;
+    box-shadow: 0 -6px 10px 2px rgba(99, 83, 83, 0.5); 
+    
 }
 
 header ul{
