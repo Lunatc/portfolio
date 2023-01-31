@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
 import classes from './styles/header.module.css';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Header() {
     return (
@@ -7,7 +8,6 @@ function Header() {
             <h1>
                 <Link to="/">Cíntia's Portfolio</Link>  
             </h1>
-
             <nav>
                 <ul>
                      <li>
@@ -19,9 +19,15 @@ function Header() {
                     <li>
                         <a href="https://drive.google.com/file/d/14rvCWLhOxG_0czzwcFv7fVioEHtRPcnu/view?usp=sharing">CV</a>
                     </li>
+                    <li>
+                        <a href="/" className={classes.icon}>
+                            <FontAwesomeIcon icon="moon" />
+                        </a>                      
+                    </li>
                 </ul>              
             </nav>
         </header>
+        
     );
   }
   

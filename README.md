@@ -10,9 +10,9 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 - [ ] Escrever texto introdução
 - [ ] Escrever texto about me
+- [ ] Escrever parte posters
 - [ ] Resolver problema links "/Portfolio"
 - [ ] Protótipos Figma
-- [ ] Adicionar icone window do navegador
 - [ ] Responsividade React
 - [ ] Escolher uma foto melhor
 - [ ] Inglês
@@ -20,7 +20,6 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [ ] Github Pages novamente
 - [ ] Colocar meus projetos de verdade
 - [ ] Página que estou agora aparece com linha embaixo
-- [ ] Editar About me e colocar data do lado e só por ano
 
 </details>
 
@@ -43,5 +42,8 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Parte com ferramentas e linguagens que sei
 - [x] Simplificar todo o projeto e escolher melhor uma identidade visual
 - [x] Links font-awesome
+- [x] Adicionar icone window do navegador
+- [x] Editar footer
+- [x] Editar About me e colocar data do lado e só por ano
 
 </details>

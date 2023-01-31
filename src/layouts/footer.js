@@ -4,8 +4,6 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 function Footer() {
     return (
         <footer className={classes.footer}>
-            <div className={classes.contato}>
-                <p>cbrmesquita@gmail.com</p>
                 <div className={classes.redes}>
                     <ul>
                         <li>
@@ -30,7 +28,6 @@ function Footer() {
                         </li>
                     </ul>
                 </div>
-            </div>
                 <p>Todos os direitos reservados - Cintia 2023</p>
         </footer>
     );
