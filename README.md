@@ -8,13 +8,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 <summary> Must do </summary>
 
-- [ ] Escrever texto introdução
-- [ ] Escrever texto about me
-- [ ] Escrever parte posters
-- [ ] Resolver problema links "/Portfolio"
-- [ ] Responsividade React
 - [ ] Inglês
-- [ ] Github Pages novamente
 - [ ] Colocar meus projetos de verdade
 
 </details>
@@ -52,5 +46,11 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 - [x] Adicionar icone window do navegador
 - [x] Editar footer
 - [x] Editar About me e colocar data do lado e só por ano
+- [x] Escrever texto introdução
+- [x] Escrever texto about me
+- [x] Escrever parte posters
+- [x] Resolver problema links "/Portfolio"
+- [x] Responsividade React
+- [x] Github Pages novamente
 
 </details>
