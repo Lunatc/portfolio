@@ -14,7 +14,7 @@ function Main() {
                     <div className={classes.intro}>
                         <h1>Olá, eu sou a Cíntia</h1>
                         <br></br>
-                        <p>Eu sou estudande de ciência da computação na Unesp. Gosto bastante de programas, mas entre as diferentes áreas dentro da computação, a que me conquistou mais foi IHC, pela sua interdisciplinariedade e por ser um lado mais humano da área. Por isso, resolvi seguir uma carreira em UI/UX.</p>
+                        <p>Eu sou estudande de ciência da computação na Unesp. Gosto bastante de programar, mas entre as diferentes áreas dentro da computação, a que me conquistou mais foi IHC, pela sua interdisciplinariedade e por ser um lado mais humano da área. Por isso, resolvi seguir uma carreira em UI/UX.</p>
                         <br></br>
                         <Link to='/about'>Saiba mais..</Link>
                     </div>
