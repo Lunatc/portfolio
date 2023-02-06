@@ -10,7 +10,10 @@ function Projects() {
         <h1>Projects</h1>
 
         <p>Em desenvolvimento</p>
-        <img src={foto} alt="Foto da Cintia"></img>
+        <div className={classes.foto}>
+          <img src={foto} alt="Foto da Cintia"></img>
+        </div>
+        
 
         {/*<Card 
           title="teste" 
