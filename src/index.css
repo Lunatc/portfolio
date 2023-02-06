@@ -6,6 +6,7 @@
     font-size: 100%;
     box-sizing: border-box;
     font-family: 'open sans', monospace;
+    overflow-x: hidden;
 }
 
 nav, ul{
@@ -36,7 +37,7 @@ div {
     flex-direction: column;
     padding: 30px 200px;
     gap: 15px;
-    min-height: calc(100vh - 170px);
+    min-height: calc(100vh - 150px);
 }
 
 @media screen and (max-width: 700px) {

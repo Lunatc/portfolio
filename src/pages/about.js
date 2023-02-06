@@ -5,21 +5,21 @@ function About() {
     return (
         <div className={classes.About}>
             
-            <h1>Breve introdução</h1>
+            <h1>Brief introduction</h1>
             <br></br>
-            <p className={classes["small-text"]}>Olá, meu nome é Cíntia Braz, eu tenho 21 anos e estou formando em Bacharelado em Ciência da Computação pela Unesp, campus São José do Rio Preto. Estou me especializando em UI/UX design, pois foi a área que se encaixa muito bem comigo e que mais me interessa.</p>
+            <p className={classes["small-text"]}>Hello, my name is Cintia Braz, and I'm 21 years old. I'm studying Computer Science at Unesp, Brazil. I'm specializing in UI/UX Design, as the field that fits me best and interests me the most.</p>
             <br></br>
-            <p className={classes["small-text"]}>Durante minha graduação eu sempre busquei participar nas diversas atividades, eventos e cursos que a universidade me deu a oportunidade de participar. Inclusive, em 2022 tive a chance de fazer um intercâmbio acadêmico pela minha universidade para a KNU na Coréia do Sul. Foi uma ótima experiência que me trouxe muito crescimento pessoal e maior confiança para usar meu inglês.</p>        
+            <p className={classes["small-text"]}>During my studies, I always tried to participate in the various activities, events, and courses the university offered. In 2022 I had the chance to do an academic exchange through my university for KNU in South Korea. It was a great experience that brought me a lot of personal growth and greater confidence to use my English.</p>        
             <br></br>
-            <p className={classes["small-text"]}>No tempo livre eu gosto de descansar, desenhar, ler, viajar e buscar novos hobbies temporários.</p>
+            <p className={classes["small-text"]}>Whenever I have free time, I like to rest, draw, read, travel, and try new temporary hobbies.</p>
             <br></br>
             
             <h1>Educação</h1>
             <hr/>
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Intercâmbio universitário</h3>
-                    <p className={classes["small-text"]}>KNU - Kyungpook National University - Daegu, South Korea</p>
+                    <h3>B.S in Computer Science</h3>
+                    <p className={classes["small-text"]}>UNESP - Universidade Estadual Paulista “Júlio de Mesquita Filho”</p>
                 </div>
                 <div className={classes.date}>
                    <p>2018 - Present</p>
@@ -28,8 +28,8 @@ function About() {
 
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Bacharelado em Ciência da Computação</h3>
-                    <p className={classes["small-text"]}>UNESP - Universidade Estadual Paulista “Júlio de Mesquita Filho”</p>
+                    <h3>Exchange Program</h3>
+                    <p className={classes["small-text"]}>KNU - Kyungpook National University</p>
                 </div>
                 <div className={classes.date}>
                    <p>2022</p>
@@ -37,13 +37,13 @@ function About() {
             </div>
 
             <br></br>
-            <h1>Experiências</h1>
+            <h1>Experience</h1>
             <hr/>
 
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Desenvolvedora FrontEnd</h3>
-                    <p className={classes["small-text"]}>ECCjr - Empresa Júnior da Ciência da Computação</p>
+                    <h3>FrontEnd Web Developer</h3>
+                    <p className={classes["small-text"]}>ECCjr - Computer Science Junior Enterprise</p>
                 </div>
                 <div className={classes.date}>
                    <p>2019 - 2022</p>
@@ -52,8 +52,8 @@ function About() {
 
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Iniciação Científica</h3>
-                    <p className={classes["small-text"]}>Projeto Scimov</p>
+                    <h3>Undergraduate Research Program</h3>
+                    <p className={classes["small-text"]}>Scimov Project</p>
                 </div>
                 <div className={classes.date}>
                    <p>2020 - 2021</p>
@@ -61,12 +61,12 @@ function About() {
             </div>
 
             <br></br>
-            <h1>Posters e Workshops</h1>
+            <h1>Posters and Workshops</h1>
             <hr/>
 
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Apresentação de poster no evento AUIN 15 anos</h3>
+                    <h3>Poster presented and AUIN 15 anos event</h3>
                     <p className={classes["small-text"]}>Plataforma de mediação de conteúdo científico em formato audiovisual </p>
                 </div>
                 <div className={classes.date}>

@@ -12,14 +12,14 @@ function Main() {
                 </div>
                 <div className={classes.texto}>
                     <div className={classes.intro}>
-                        <h1>Olá, eu sou a Cíntia</h1>
+                        <h1>Hi, my name is Cintia</h1>
                         <br></br>
-                        <p>Eu sou estudande de ciência da computação na Unesp. Gosto bastante de programar, mas entre as diferentes áreas dentro da computação, a que me conquistou mais foi IHC, pela sua interdisciplinariedade e por ser um lado mais humano da área. Por isso, resolvi seguir uma carreira em UI/UX.</p>
+                        <p>I am a computer science student at Unesp, Brazil. I really like programming, but among the different areas within computer science, the one that won me over was HCI, for its interdisciplinarity and for being a more human side of the area. So I decided to pursue a career in UI/UX.</p>
                         <br></br>
-                        <Link to='/about'>Saiba mais..</Link>
+                        <Link to='/about'>More about me...</Link>
                     </div>
                     <div className={classes.findMe}>
-                        <h1>Você pode me encontrar em:</h1>
+                        <h1>You can find me:</h1>
                         <div className={classes.redes}>
                             <ul>
                                 <li>
@@ -28,7 +28,7 @@ function Main() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.linkedin.com/in/cintia-braz/">
+                                    <a href="https://www.linkedin.com/in/cintia-braz/?locale=en_US">
                                         <FontAwesomeIcon icon="fa-brands fa-linkedin-in" />
                                     </a>
                                 </li>

@@ -9,7 +9,7 @@ function Projects() {
         
         <h1>Projects</h1>
 
-        <p>Em desenvolvimento</p>
+        <p>In development</p>
         <div className={classes.foto}>
           <img src={foto} alt="Foto da Cintia"></img>
         </div>
