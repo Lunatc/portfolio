@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import classes from './styles/header.module.css';
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
+//import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function Header() {
     return (

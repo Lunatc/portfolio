@@ -5,7 +5,7 @@
     padding: 0;
     font-size: 100%;
     box-sizing: border-box;
-    font-family: 'Roboto Mono', monospace;
+    font-family: 'open sans', monospace;
 }
 
 nav, ul{
@@ -36,4 +36,20 @@ div {
     flex-direction: column;
     padding: 30px 200px;
     gap: 15px;
+}
+
+@media screen and (max-width: 700px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        padding: 40px 100px;
+    }
+
+    .texto {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 0px;
+    }
+
 }

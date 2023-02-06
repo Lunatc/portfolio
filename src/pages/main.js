@@ -14,14 +14,12 @@ function Main() {
                     <div className={classes.intro}>
                         <h1>Olá, eu sou a Cíntia</h1>
                         <br></br>
-                        <p>Estudante de ciência da computação, com interesse especial em UI/UX. I’ve studied last semester in KNU in South Korea and it was one of the best decisions of my life. Now I’m finishing my undergraduate program, studying UI/UX by myself and planning to enter a master’s program related to HCI.</p>
+                        <p>Eu sou estudande de ciência da computação na Unesp. Gosto bastante de programas, mas entre as diferentes áreas dentro da computação, a que me conquistou mais foi IHC, pela sua interdisciplinariedade e por ser um lado mais humano da área. Por isso, resolvi seguir uma carreira em UI/UX.</p>
                         <br></br>
-                        <p>I’m interested in many topics and hobbies like journaling, reading, drawing and painting. I’m also a cheerleader and I love participating in activities inside the university.</p>
-                        <br></br>
-                        <Link to='/about'>More...</Link>
+                        <Link to='/about'>Saiba mais..</Link>
                     </div>
                     <div className={classes.findMe}>
-                        <h1>Find me:</h1>
+                        <h1>Você pode me encontrar em:</h1>
                         <div className={classes.redes}>
                             <ul>
                                 <li>

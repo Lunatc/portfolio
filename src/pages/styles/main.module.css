@@ -66,3 +66,19 @@
 .Main ul a:hover{
     color:#931E16;
 }
+
+@media screen and (max-width: 1000px) {
+    .hero {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .texto {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin-left: 0px;
+    }
+
+}
