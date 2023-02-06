@@ -1,6 +1,8 @@
 # Portfolio
- 
-Resolvi começar um novo portfólio do zero e apenas utilizando o básico de FrontEnd e irei melhorando ele aos poucos.
+
+My front-end Portfolio, made with React: [Portfolio](https://lunatc.github.io/portfolio/#/)
+
+I decided to start a new portfolio with only the basics of FrontEnd and to improve it with time. 
 
 ## To Do List Portfolio
 
@@ -8,7 +10,7 @@ Resolvi começar um novo portfólio do zero e apenas utilizando o básico de Fro
 
 <summary> Must do </summary>
 
-- [ ] Inglês
+- [ ] Português
 - [ ] Colocar meus projetos de verdade
 
 </details>
