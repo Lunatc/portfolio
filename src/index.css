@@ -6,6 +6,7 @@
     font-size: 100%;
     box-sizing: border-box;
     font-family: 'open sans', monospace;
+    overflow: auto;
 }
 
 nav, ul{
@@ -42,7 +43,7 @@ div {
     .content {
         display: flex;
         flex-direction: column;
-        padding: 40px 100px;
+        padding: 40px 80px;
     }
 
     .texto {
@@ -51,5 +52,19 @@ div {
         justify-content: center;
         margin-left: 0px;
     }
+    
+    p{
+        text-align: left;
+        font-size: 0.92rem;
+        color: #474747;
+    }
 
+}
+
+@media screen and (max-width: 300px) {
+    .content {
+        display: flex;
+        flex-direction: column;
+        padding: 40px 40px;
+    }
 }

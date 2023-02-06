@@ -16,3 +16,12 @@ footer p{
     padding: 20px 0;
     font-weight: bold;
 }
+
+
+@media screen and (max-width: 300px) {
+    footer {
+        display: flex;
+        flex-direction: column;
+        padding-left: 20px;
+    }
+}
