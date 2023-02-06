@@ -11,10 +11,10 @@ function Header() {
             <nav>
                 <ul>
                      <li>
-                        <Link to="/about">Sobre</Link>
+                        <Link to="/about">About</Link>
                     </li>
                     <li>
-                        <Link to="/projects">Projetos</Link>
+                        <Link to="/projects">Projects</Link>
                     </li>
                     <li>
                         <a href="https://drive.google.com/file/d/1eV7VNIeM_fHTXKYMquw9mjnpPrTr5S94/view?usp=share_link">CV</a>
