@@ -1,6 +1,4 @@
 # Portfolio
-
-My front-end Portfolio, made with React: [Portfolio](https://lunatc.github.io/portfolio/#/)
  
 Resolvi começar um novo portfólio do zero e apenas utilizando o básico de FrontEnd e irei melhorando ele aos poucos.
 
