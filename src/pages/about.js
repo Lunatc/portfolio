@@ -14,7 +14,7 @@ function About() {
             <p className={classes["small-text"]}>Whenever I have free time, I like to rest, draw, read, travel, and try new temporary hobbies.</p>
             <br></br>
             
-            <h1>Educação</h1>
+            <h1>Education</h1>
             <hr/>
             <div className={classes.item}>
                 <div className={classes.text}>
@@ -66,11 +66,20 @@ function About() {
 
             <div className={classes.item}>
                 <div className={classes.text}>
-                    <h3>Poster presented and AUIN 15 anos event</h3>
-                    <p className={classes["small-text"]}>Plataforma de mediação de conteúdo científico em formato audiovisual </p>
+                    <h3>AUIN 15 anos</h3>
+                    <p className={classes["small-text"]}>Poster: Scientific content mediation platform in audiovisual format</p>
                 </div>
                 <div className={classes.date}>
                    <p>2022</p>
+                </div>
+            </div>
+            <div className={classes.item}>
+                <div className={classes.text}>
+                    <h3>CIC - XXXIII Congresso de Iniciação Científica da UNESP</h3>
+                    <p className={classes["small-text"]}>Poster: User interface prototype for an audiovisual scientific content platform with a focus on usability</p>
+                </div>
+                <div className={classes.date}>
+                   <p>2021</p>
                 </div>
             </div>
         </div>
