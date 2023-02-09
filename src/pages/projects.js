@@ -9,7 +9,7 @@ function Projects() {
         <h1>Projects</h1>    
 
         <Card 
-          title="Github Profile Data Fetch Website" 
+          title="Github User Fetch Website" 
           text="Simple website to get data of github users. Through this project, I was able to learn more about react and APIs."
           //image={projeto1}
           link="https://lunatc.github.io/git-api/"
