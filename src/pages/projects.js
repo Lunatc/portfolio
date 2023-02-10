@@ -15,6 +15,14 @@ function Projects() {
           link="https://lunatc.github.io/git-api/"
           date="2021"
         />
+
+        <Card 
+          title="React ToDo App" 
+          text="Project of making a to-do list app."
+          //image={projeto1}
+          link="https://lunatc.github.io/React-ToDo-App/"
+          date="2023"
+        />
         
         </div>
     );
