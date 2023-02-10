@@ -1,7 +1,6 @@
 .Card {
-    background-color: #f3f3f3;
+    background-color: #eeeeee;
     border-radius: 4px;
-    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
     padding: 20px 20px;
     width: 100%;
     display: flex;
