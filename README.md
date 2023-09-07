@@ -10,8 +10,9 @@ I decided to start a new portfolio with only the basics of FrontEnd and to impro
 
 <summary> Must do </summary>
 
-- [ ] Português
-- [ ] Colocar meus projetos de verdade
+- [ ] Option to switch language to portuguese
+- [ ] Add other projects
+- [ ] Improve projects page
 
 </details>
 
@@ -19,10 +20,9 @@ I decided to start a new portfolio with only the basics of FrontEnd and to impro
 
 <summary> Extra </summary>
 
-- [ ] Protótipos Figma
-- [ ] Escolher uma foto melhor
-- [ ] Modo escuro
-- [ ] Página que estou agora aparece com linha embaixo
+- [ ] Figma prototypes
+- [ ] Better picture (?)
+- [ ] Dark mode
 
 </details>
 
