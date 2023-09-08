@@ -1,6 +1,8 @@
 import classes from './styles/projects.module.css'
 import Card from '../components/card.js'
+import Footer from '../layouts/footer';
 //import projeto1 from "../assets/images/projeto1.png"
+import { Link } from 'react-router-dom';
 
 function Projects() {
     return (
@@ -21,6 +23,14 @@ function Projects() {
           text="Project of making a to-do list app."
           //image={projeto1}
           link="https://lunatc.github.io/React-ToDo-App/"
+          date="2023"
+        />
+
+        <Card 
+          title="Teste" 
+          text="Esse é um teste"
+          img={foto2.jpg}
+          <Link to="/projetos/teste"/>
           date="2023"
         />
         
