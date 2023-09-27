@@ -18,7 +18,7 @@ function Projects() {
 
         <Card 
           title="UI/UX Blog idea prototype" 
-          text="Prototype for a blog about UI/UX, HCI and Design"
+          text="Prototype for a blog about UI/UX, HCI and Design."
           //image={projeto1}
           link="https://www.figma.com/proto/lVnMxatk2g4tspnKzTszjo/My-Blog?node-id=1-12&scaling=scale-down-width&hide-ui=1&t=uYgIOdqOsrnnDcqP-8"
           date="2022"
