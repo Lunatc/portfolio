@@ -17,7 +17,7 @@ function Header() {
                         <Link to="/projects">Projects</Link>
                     </li>
                     <li>
-                        <a href="https://drive.google.com/file/d/1eV7VNIeM_fHTXKYMquw9mjnpPrTr5S94/view?usp=share_link">CV</a>
+                        <a href="https://drive.google.com/file/d/1c_GmqV3Y9-MMi_-67wisrHoO5qBKoE1m/view?usp=sharing">CV</a>
                     </li>
                     {/*<li>
                         <a href="/" className={classes.icon}>

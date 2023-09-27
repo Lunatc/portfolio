@@ -28,11 +28,11 @@ function Main() {
                                     </a>
                                 </li>
                                 <li>
-                                    <a href="https://www.linkedin.com/in/cintia-braz/?locale=en_US">
+                                    <a href="https://www.linkedin.com/in/cintia-braz/">
                                         <FontAwesomeIcon icon="fa-brands fa-linkedin-in" />
                                     </a>
                                 </li>
-                                <li>
+                                {/* <li>
                                     <a href="https://www.behance.net/cintiaBM">
                                         <FontAwesomeIcon icon="fa-brands fa-behance" />
                                     </a>
@@ -41,7 +41,7 @@ function Main() {
                                     <a href="https://dribbble.com/CintiaBM">
                                         <FontAwesomeIcon icon="fa-brands fa-dribbble" />
                                     </a>
-                                </li>
+                                </li> */}
                             </ul>
                         </div>
                     </div>
