@@ -14,7 +14,7 @@ function Main() {
                     <div className={classes.intro}>
                         <h1>Hi, my name is Cintia</h1>
                         <br></br>
-                        <p>I am a computer science student at Unesp, Brazil. I really like programming, but among the different areas within computer science, the one that won me over was HCI, for its interdisciplinarity and for being a more human side of the area. So I decided to pursue a career in UI/UX.</p>
+                        <p>I just finished my computer science undergraduate degree at Unesp, Brazil.</p>
                         <br></br>
                         <Link to='/about'>More about me...</Link>
                     </div>
