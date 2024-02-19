@@ -7,11 +7,11 @@ function About() {
             
             <h1>Brief introduction</h1>
             <br></br>
-            <p className={classes["small-text"]}>Hello, my name is Cintia Braz, and I'm 21 years old. I'm studying Computer Science at Unesp, Brazil. I'm specializing in UI/UX Design, as the field that fits me best and interests me the most.</p>
+            <p className={classes["small-text"]}>Hello, my name is Cintia Braz, and I'm 22 years old. I'm a recent graduate in Computer Science at Unesp, Brazil. I'm looking for my first job opportunity.</p>
             <br></br>
             <p className={classes["small-text"]}>During my studies, I always tried to participate in the various activities, events, and courses the university offered. In 2022 I had the chance to do an academic exchange through my university for KNU in South Korea. It was a great experience that brought me a lot of personal growth and greater confidence to use my English.</p>        
             <br></br>
-            <p className={classes["small-text"]}>Whenever I have free time, I like to rest, draw, read, travel, and try new temporary hobbies.</p>
+            <p className={classes["small-text"]}>Whenever I have free time, I like to play games, draw, read, travel, and try new temporary hobbies.</p>
             <br></br>
             
             <h1>Education</h1>
