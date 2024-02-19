@@ -5,7 +5,6 @@ import Footer from "./layouts/footer";
 import Projects from './pages/projects';
 import Main from './pages/main';
 import About from './pages/about';
-import Project from './components/project';
 
 
 function App() {
