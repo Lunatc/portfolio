@@ -6,6 +6,7 @@
 .About h1, .about h2{
     font-weight: normal;
     color: #1f1f1f;
+    margin-top: 25px;
 }
 
 .small-text{
@@ -43,6 +44,10 @@
 
 .About h3{
     color: #cc574e
+}
+
+.About p{
+    margin-top: 15px;
 }
 
 
